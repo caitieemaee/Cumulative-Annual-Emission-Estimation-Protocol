@@ -1,1 +1,1 @@
-Create a shareable link.
+Shareable link is accessible here within the Github repository.
